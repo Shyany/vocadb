@@ -118,13 +118,13 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Description" xml:space="preserve">
-    <value>Description</value>
+    <value>Beschreibung</value>
   </data>
   <data name="EventDate" xml:space="preserve">
-    <value>Event date</value>
+    <value>Veranstaltungsdatum</value>
   </data>
   <data name="FeaturedCategory" xml:space="preserve">
-    <value>Featured category</value>
+    <value>Vorgestellte Kategorie</value>
   </data>
   <data name="Name" xml:space="preserve">
     <value>Name</value>
